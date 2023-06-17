@@ -1,0 +1,38 @@
+.container{
+  margin: auto;
+    width: 90%;
+}
+
+#google-foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.textbox{
+    width: 300px;
+}
+
+p{ margin: 0px;}
+
+
+.scontainer{
+    border-style: solid;
+
+}
+.clear{
+    clear: both;
+
+}
+.column {
+    float: left;
+    width: 33%;
+    text-align: center;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+

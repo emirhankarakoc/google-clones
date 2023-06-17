@@ -1,0 +1,49 @@
+
+.header-navbar{
+    float: right;
+    
+}
+a.header{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.clear{
+    clear: both;
+}
+.x3x3kucult{
+width: 30px;
+}
+.ekucult{
+
+    border-radius: 25px;
+}
+
+
+.margin200top{
+    padding-top: 200px;
+}
+.but{
+    margin-left: 40%;
+}
+
+.yuvarla{
+    width: 200px;
+    height: 40px;
+    border-radius: 25px;
+    
+}
+.button{
+    background-color: yellow;
+    font-family: 'Bebas Neue', sans-serif;
+}
+.footermenu{
+    font-size: 35px;
+    margin-top: 700px;
+    text-decoration: none;
+    color: white;
+}
+a{
+    font-family: 'Bebas Neue', sans-serif;
+}
